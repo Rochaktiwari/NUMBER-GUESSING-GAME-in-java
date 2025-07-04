@@ -1,1 +1,1 @@
-# task-2-NUMBER-GUESSING-GAME-oasis-infobyte
+#NUMBER GUESSING GAME in JAVA
