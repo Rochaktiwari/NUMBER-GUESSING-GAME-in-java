@@ -3,7 +3,7 @@
 import java.util.Random;
 import java.util.Scanner;
 
-public class task2 
+public class Work 
 {
         public static void main(String[] args) 
         {
